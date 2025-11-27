@@ -70,6 +70,6 @@
     	return 0;
     }
 ## 3. Результат работы программы
-<img  width=“250” src="" >
+<img  width=“250” src="https://github.com/MariaLavrova6242/Lab-7/blob/master/Lab7.png" >
 ## 4. Информация о разработчике
 Лаврова Мария, бИПТ-252# Lab7
