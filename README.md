@@ -9,12 +9,12 @@
 3. Создание ветвлений:
   - 1 = one
   - 2 = two
-  - 3 = thee
+  - 3 = three
   - 4 = four
-  - 5 = fife
+  - 5 = five
   - 6 = six
   - 7 = seven
-  - 8 = eaight
+  - 8 = eight
   - 9 = nine
   - 0 = zero
 4. Вывести результаты расчётов с подстановкой значений в текст.
@@ -43,13 +43,13 @@
     		printf("two");
     		break;
     	case '3':
-    		printf("thee");
+    		printf("three");
     		break;
     	case '4':
     		printf("four");
     		break;
     	case '5':
-    		printf("fife");
+    		printf("five");
     		break;
     	case '6':
     		printf("six");
